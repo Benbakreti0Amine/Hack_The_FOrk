@@ -1,0 +1,16 @@
+latitude
+longitude
+sea_surface_temp_c
+surface_par
+day_length_hours
+distance_from_coast_km
+euphotic_zone_depth_m
+sampling_depth_m
+satellite_chlorophyll
+satellite_sst
+sin_doy
+cos_doy
+sin_month
+cos_month
+temp_par_interaction
+abs_latitude
